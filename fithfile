@@ -1,2 +1,6 @@
 this is fifthfile
+<<<<<<< HEAD
+edited in locally
+=======
 this fileis edited
+>>>>>>> c73b5f3c4ae4cade72afa3a96ac14b045ae6df11

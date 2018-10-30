@@ -1,2 +1,6 @@
 hi this is fourthfile
+<<<<<<< HEAD
 edited in locally
+=======
+this file is edited
+>>>>>>> c73b5f3c4ae4cade72afa3a96ac14b045ae6df11

@@ -1,7 +1,7 @@
 pipeline {
   agent { dockerfile true }
     stages {
-      stage('Initializing') {
+      stage('frist step') {
         steps {
           sh 'alpine --version'
           }

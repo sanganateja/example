@@ -1,9 +1,9 @@
 pipeline {
   agent { dockerfile true }
     stages {
-      stage('install ubuntu') {
+      stage('Initializing') {
         steps {
-          echo 'installing ubuntu'
+          sh 'alpine --version'
           }
         }
     }
